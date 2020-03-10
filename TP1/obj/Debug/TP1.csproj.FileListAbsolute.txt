@@ -1,0 +1,12 @@
+C:\Users\Andin\source\repos\TP1\TP1\obj\Debug\TP1.csprojAssemblyReference.cache
+C:\Users\Andin\source\repos\TP1\TP1\obj\Debug\TP1.formLogin.resources
+C:\Users\Andin\source\repos\TP1\TP1\obj\Debug\TP1.menuBaru.resources
+C:\Users\Andin\source\repos\TP1\TP1\obj\Debug\TP1.Properties.Resources.resources
+C:\Users\Andin\source\repos\TP1\TP1\obj\Debug\TP1.csproj.GenerateResource.cache
+C:\Users\Andin\source\repos\TP1\TP1\bin\Debug\TP1.exe.config
+C:\Users\Andin\source\repos\TP1\TP1\bin\Debug\TP1.exe
+C:\Users\Andin\source\repos\TP1\TP1\bin\Debug\TP1.pdb
+C:\Users\Andin\source\repos\TP1\TP1\obj\Debug\TP1.exe
+C:\Users\Andin\source\repos\TP1\TP1\obj\Debug\TP1.pdb
+C:\Users\Andin\source\repos\TP1\TP1\obj\Debug\TP1.FormBeli.resources
+C:\Users\Andin\source\repos\TP1\TP1\obj\Debug\TP1.FormKtlg.resources
