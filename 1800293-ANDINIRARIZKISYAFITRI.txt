@@ -1,0 +1,15 @@
+1800293 - Andinira Rizki Syafitri
+
+/*Saya Andinira Rizki Syafitri mengerjakan TP 1 DPBO 2020 untuk keberkahanNya 
+maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+*/
+
+
+kesulitan:
+Kesulitan didalam foreach c# karena masih bingung. sebelumnya login masih hardcode usernamenya. 
+Desain UI yang masih kurang dan belum mahir dengan Visual Studio, layouting masih belum paham
+
+hal yang dipelajari tentang basic componen spt button dan label. fitur yang sudah digunakan
+seperti button, label, combobox. walaupun masih kurang dalam membuat formnya
+
+
